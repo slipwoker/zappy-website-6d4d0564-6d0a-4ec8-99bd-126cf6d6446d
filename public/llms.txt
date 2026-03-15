@@ -1,0 +1,45 @@
+# ניני — Generative Engine Optimization Map
+
+> A personal coaching practice for teenagers that combines traditional life coaching with innovative visual therapy tools. The brand focuses on helping teens navigate digital-age challenges through 1-on-1 sessions that integrate photography therapy and styling therapy. The approach is youth-centric, speaking their language and using aesthetics and visual tools to build self-confidence and social resilience. Sessions are conducted via Zoom in a safe, accessible environment, addressing inner voice, social media comparison, and digital pressures while helping teens 'remove external filters' to find authentic self-confidence.
+
+---
+
+## Pages
+
+### בית
+https://-6d4d0564.zappy5.app
+אימון אישי לבני נוער המשלב טיפול חזותי וסטיילינג להעצמה אמיתית. פגישות זום אישיות שבונות חוסן דיגיטלי ודימוי עצמי חזק מבפנים. בואו להסיר את הפילטרים!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6d4d0564.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6d4d0564.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6d4d0564.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ניני
+A personal coaching practice for teenagers that combines traditional life coaching with innovative visual therapy tools. The brand focuses on helping teens navigate digital-age challenges through 1-on-1 sessions that integrate photography therapy and styling therapy. The approach is youth-centric, speaking their language and using aesthetics and visual tools to build self-confidence and social resilience. Sessions are conducted via Zoom in a safe, accessible environment, addressing inner voice, social media comparison, and digital pressures while helping teens 'remove external filters' to find authentic self-confidence.
+
+## Target Audience
+בני נוער והוריהם
+
+## Industry
+אימון אישי והעצמה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-6d4d0564.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-6d4d0564.zappy5.app/robots.txt
